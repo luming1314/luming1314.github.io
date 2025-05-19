@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ming Lu"
+  name             : "Ming Lu (芦鸣)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Jiangnan University"
+  bio              : ""
   location         : "Jiangsu, China"
   employer         :
   pubmed           : 
