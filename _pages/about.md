@@ -21,10 +21,22 @@ I am a Ph.D. student in the School of Artificial Intelligence and Computer Scien
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to IEEE TIP.
-- *2024.06*: &nbsp;🎉🎉 I received support from Postgraduate Research & Practice Innovation Program of Jiangsu Province.
+- *2024.06*: &nbsp;🎉🎉 I received support from Postgraduate Research \& Practice Innovation Program of Jiangsu Province.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted to IEEE TIM.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/LDRepFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LDRepFM: A Real-Time End-to-End Visible and Infrared Image Fusion Model Based on Layer Decomposition and Re-Parameterization](https://doi.org/10.1109/tim.2023.3280496) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+
+**Ming Lu**, Min Jiang, Jun Kong, Xuefeng Tao
+
+[[Code]](https://github.com/luming1314/LDRepFM)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
