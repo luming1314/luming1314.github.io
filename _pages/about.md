@@ -83,19 +83,25 @@ Teng Lin, **Ming Lu**, Min Jiang, Jun Kong
 </div>
 </div>
 -->
-- 蒋敏, **芦鸣**, 孔军, 陶雪峰. 基于层分离和重参数的红外和可见光图像融合方法, 发明专利(Invention Patent), ZL202310005792.0
+- 蒋敏, **芦鸣**, 孔军, 陶雪峰. 基于层分离和重参数的红外和可见光图像融合方法, 发明专利 (Invention Patent), ZL202310005792.0
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Ming Lu** "Research on Multi-modal Image Registration and Fusion Based on an Adaptive Unified Network", Postgraduate Research and Practice Innovation Program of Jiangsu Province (KYCX24_2643), *2024-2027*.
+- Xuefeng Tao, Danfeng Zhuang, **Ming Lu**, ... "High-Performance Many-Core Simulation Application Platform", the 9th China International "Internet +" College Student Innovation and Entrepreneurship, Third Prize of Jiangsu Province.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations and Employment
+- *2021.09 - Present*, Ph.D., School of Artificial Intelligence and Computer Science, Jiangnan University. 
+- *2020.08 - 2021.08*, Software Engineer, Hundsun Technologies Inc.
+- *2016.09 - 2020.06*, Bachelor, School of Computer and Information Engineering, Jiangxi Agricultural University. 
 
+# 💻 Services
+- Reviewer of TIP, TMM, TCSVT, SPL
+
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
