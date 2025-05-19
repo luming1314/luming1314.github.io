@@ -21,7 +21,7 @@ I am a Ph.D. student in the School of Artificial Intelligence and Computer Scien
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to IEEE TIP.
-- *2024.06*: &nbsp;🎉🎉 I received support from Postgraduate Research &amp; Practice Innovation Program of Jiangsu Province.
+- *2024.06*: &nbsp;🎉🎉 I received support from Postgraduate Research and Practice Innovation Program of Jiangsu Province.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted to IEEE TIM.
 
 # 📝 Publications 
@@ -38,7 +38,7 @@ Xuefeng Tao, Jun Kong, Min Jiang, **Ming Lu**, Ajmal Mian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/LDRepFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/LDRepFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LDRepFM: A Real-Time End-to-End Visible and Infrared Image Fusion Model Based on Layer Decomposition and Re-Parameterization](https://doi.org/10.1109/tim.2023.3280496) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
@@ -83,7 +83,7 @@ Teng Lin, **Ming Lu**, Min Jiang, Jun Kong
 </div>
 </div>
 -->
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- 蒋敏, **芦鸣**, 孔军, 陶雪峰. 基于层分离和重参数的红外和可见光图像融合方法, 发明专利(Invention Patent), ZL202310005792.0
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
