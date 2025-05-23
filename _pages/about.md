@@ -29,7 +29,7 @@ I am a Ph.D. student in the School of Artificial Intelligence and Computer Scien
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/Diffusion-reid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unsupervised Learning of Intrinsic Semantics With Diffusion Model for Person Re-Identification](https://doi.org/10.1109/tip.2024.3514360) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[Unsupervised Learning of Intrinsic Semantics With Diffusion Model for Person Re-Identification](https://doi.org/10.1109/tip.2024.3514360) <strong><span class='show_paper_citations' data='ZIlyp38AAAAJ:u-x6o8ySG0sC'></span></strong>
 
 Xuefeng Tao, Jun Kong, Min Jiang, **Ming Lu**, Ajmal Mian
 
@@ -41,7 +41,7 @@ Xuefeng Tao, Jun Kong, Min Jiang, **Ming Lu**, Ajmal Mian
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/LDRepFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LDRepFM: A Real-Time End-to-End Visible and Infrared Image Fusion Model Based on Layer Decomposition and Re-Parameterization](https://doi.org/10.1109/tim.2023.3280496) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[LDRepFM: A Real-Time End-to-End Visible and Infrared Image Fusion Model Based on Layer Decomposition and Re-Parameterization](https://doi.org/10.1109/tim.2023.3280496) <strong><span class='show_paper_citations' data='ZIlyp38AAAAJ:9yKSN-GCB0IC'></span></strong>
 
 **Ming Lu**, Min Jiang, Jun Kong, Xuefeng Tao
 
@@ -53,7 +53,7 @@ Xuefeng Tao, Jun Kong, Min Jiang, **Ming Lu**, Ajmal Mian
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/CE-SCNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-Modal Collaborative Evolution Reinforced by Semantic Coupling for Image Registration and Fusion](https://doi.org/10.1109/tim.2024.3497157) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[Cross-Modal Collaborative Evolution Reinforced by Semantic Coupling for Image Registration and Fusion](https://doi.org/10.1109/tim.2024.3497157) <strong><span class='show_paper_citations' data='ZIlyp38AAAAJ:u5HHmVD_uO8C'></span></strong>
 
 Yan Xiong, Jun Kong, Yunde Zhang, **Ming Lu**, Min Jiang 
 
@@ -63,7 +63,7 @@ Yan Xiong, Jun Kong, Yunde Zhang, **Ming Lu**, Min Jiang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='images/MIAFusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MIAFusion: Infrared and Visible Image Fusion via Multi-scale Spatial and Channel-Aware Interaction Attention](https://doi.org/10.1007/978-981-97-8685-5_17) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[MIAFusion: Infrared and Visible Image Fusion via Multi-scale Spatial and Channel-Aware Interaction Attention](https://doi.org/10.1007/978-981-97-8685-5_17) <strong><span class='show_paper_citations' data='ZIlyp38AAAAJ:d1gkVwhDpl0C'></span></strong>
 
 Teng Lin, **Ming Lu**, Min Jiang, Jun Kong
 
