@@ -18,6 +18,9 @@ main:
   - title: "Services"
     url: "/#-services"
 
+  - title: "CV"
+    url: "./pdf/cv.pdf"
+
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
 #
