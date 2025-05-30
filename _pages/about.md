@@ -91,7 +91,8 @@ Teng Lin, **Ming Lu**, Min Jiang, Jun Kong
 - Xuefeng Tao, Danfeng Zhuang, **Ming Lu**, ... "High-Performance Many-Core Simulation Application Platform", the 9th China International "Internet +" College Student Innovation and Entrepreneurship, Third Prize of Jiangsu Province.
 
 # 📖 Educations and Employment
-- *2021.09 - Present*, Ph.D., School of Artificial Intelligence and Computer Science, Jiangnan University. 
+- *2023.09 - Present*, Ph.D. student , School of Artificial Intelligence and Computer Science, Jiangnan University. 
+- *2021.09 - 2021.09*, M.S. student , School of Artificial Intelligence and Computer Science, Jiangnan University. 
 - *2020.08 - 2021.08*, Software Engineer, Hundsun Technologies Inc.
 - *2016.09 - 2020.06*, Bachelor, School of Computer and Information Engineering, Jiangxi Agricultural University. 
 
