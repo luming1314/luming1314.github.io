@@ -92,7 +92,7 @@ Teng Lin, **Ming Lu**, Min Jiang, Jun Kong
 
 # 📖 Educations and Employment
 - *2023.09 - Present*, Ph.D. student , School of Artificial Intelligence and Computer Science, Jiangnan University. 
-- *2021.09 - 2021.09*, M.S. student , School of Artificial Intelligence and Computer Science, Jiangnan University. 
+- *2021.09 - 2023.09*, M.S. student , School of Artificial Intelligence and Computer Science, Jiangnan University. 
 - *2020.08 - 2021.08*, Software Engineer, Hundsun Technologies Inc.
 - *2016.09 - 2020.06*, Bachelor, School of Computer and Information Engineering, Jiangxi Agricultural University. 
 
