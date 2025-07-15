@@ -20,12 +20,24 @@ redirect_from:
 I am a Ph.D. student in the School of Artificial Intelligence and Computer Science at Jiangnan University, under the supervision of Prof. Min Jiang and Prof. Jun Kong. My research interests include image registration, image fusion and low-light image enhancement.
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper accepted to IEEE TIP.
 - *2025.05*: &nbsp;🎉🎉 I received the Chinese government scholarship to support my study abroad.
 - *2024.12*: &nbsp;🎉🎉 One paper accepted to IEEE TIP.
 - *2024.06*: &nbsp;🎉🎉 I received support from Postgraduate Research and Practice Innovation Program of Jiangsu Province.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted to IEEE TIM.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/AU-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AU-Net: Adaptive Unified Network for Joint Multi-modal Image Registration and Fusion](https://doi.org/10.1109/TIP.2025.3586507) <strong><span class='show_paper_citations' data='ZIlyp38AAAAJ:None'></span></strong>
+
+**Ming Lu**, Min Jiang, Xuefeng Tao, Jun Kong
+
+[[Code]](https://github.com/luming1314/AU-Net)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/Diffusion-reid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
