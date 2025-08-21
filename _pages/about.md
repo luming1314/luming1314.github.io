@@ -22,7 +22,6 @@ I am a Ph.D. student in the School of Artificial Intelligence and Computer Scien
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper accepted to IEEE TIP.
 - *2025.05*: &nbsp;🎉🎉 I received the Chinese government scholarship to support my study abroad.
-- *2024.12*: &nbsp;🎉🎉 One paper accepted to IEEE TIP.
 - *2024.06*: &nbsp;🎉🎉 I received support from Postgraduate Research and Practice Innovation Program of Jiangsu Province.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted to IEEE TIM.
 
@@ -35,6 +34,16 @@ I am a Ph.D. student in the School of Artificial Intelligence and Computer Scien
 **Ming Lu**, Min Jiang, Xuefeng Tao, Jun Kong
 
 [[Code]](https://github.com/luming1314/AU-Net)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/SPCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SPCL: Semantic Polymorphism and Commonality Learning for Text-based Person Retrieval](https://doi.org/10.1109/TCSVT.2025.3601071) <strong><span class='show_paper_citations' data='ZIlyp38AAAAJ:None'></span></strong>
+
+Jiayi Li, Jun Kong, Yunde Zhang, **Ming Lu**, Min Jiang
 
 </div>
 </div>
