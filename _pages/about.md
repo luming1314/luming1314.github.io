@@ -20,7 +20,6 @@ redirect_from:
 I am a Ph.D. student in the School of Artificial Intelligence and Computer Science at Jiangnan University, under the supervision of Prof. Min Jiang and Prof. Jun Kong. My research interests include image registration, image fusion and low-light image enhancement.
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 One paper accepted to 《计算机辅助设计与图形学学报》.
 - *2026.05*: &nbsp;🎉🎉 One paper accepted to OLEN.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted to IEEE TIP.
 - *2025.05*: &nbsp;🎉🎉 I received the Chinese government scholarship to support my study abroad.
