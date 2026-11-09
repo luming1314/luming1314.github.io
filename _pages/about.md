@@ -22,7 +22,6 @@ I am a Ph.D. student in the School of Artificial Intelligence and Computer Scien
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 One paper accepted to OLEN.
 - *2025.07*: &nbsp;🎉🎉 One paper accepted to IEEE TIP.
-- *2025.05*: &nbsp;🎉🎉 I received the Chinese government scholarship to support my study abroad.
 - *2024.06*: &nbsp;🎉🎉 I received support from Postgraduate Research and Practice Innovation Program of Jiangsu Province.
 - *2023.06*: &nbsp;🎉🎉 One paper accepted to IEEE TIM.
 
